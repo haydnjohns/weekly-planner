@@ -2,7 +2,7 @@
 
 Ceci n'est pas un calendrier.
 
-This app is a **desktop-focused weekly planner** that prioritizes ideation. It helps you efficiently organize and visualize your week, focusing on planning and productivity rather than rigid scheduling.  
+This app is a **desktop-focused weekly planner** that prioritises ideation helping you efficiently organise and visualise your week.
 
 ## Features
 
