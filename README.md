@@ -13,3 +13,10 @@ This app is a **desktop-focused weekly planner** that prioritises ideation helpi
 - **Keyboard shortcuts**: Navigate, create, and modify events efficiently without relying solely on the mouse.  
 - **Intuitive multi-select**: Select multiple events, copy, edit and reposition them to plan complex weeks quickly.  
 - **Print wizard**: Export a formatted version of your week for printing or offline use.  
+
+## How to use
+
+- Download the file to a computer
+- Make sure the file name ends with .html
+- Double click to open the file
+- File opens in your default browser
